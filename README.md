@@ -108,7 +108,7 @@ To re-import your data (e.g., after a new export):
 php import.php
 ```
 
-This will delete the existing database and re-download all attachments. Already downloaded attachments are skipped.
+This will delete and recreate the database. Already downloaded attachments are skipped, so only new attachments will be downloaded.
 
 ## License
 
