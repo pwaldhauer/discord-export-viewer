@@ -1,0 +1,16 @@
+# Database
+discord.db
+
+# Downloaded attachments
+public/attachments/
+
+# Discord export data
+package/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
