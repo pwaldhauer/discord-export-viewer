@@ -2,6 +2,11 @@
 
 A PHP web application for browsing Discord data exports. Imports Discord's JSON export format into a SQLite database and provides a web interface to browse servers, channels, messages, and a calendar view.
 
+
+## Vibe Warning
+
+The code in this repo was mainly coded by Claude AI. It's not beautiful but does what it should do.	
+
 ## Features
 
 - **Server & Channel Browser**: Navigate through all your Discord servers and channels
